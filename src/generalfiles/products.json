@@ -1,0 +1,54 @@
+[{"title":"Cap",
+  "price": 50,
+  "stock":3,
+  "thumbnail": "https://www.sansabacap.com/wp-content/uploads/2018/08/112FP_final.jpg",
+  "barcode":12315465,
+  "description":"A trucker cap",
+  "id": 1},
+
+  {"title": "Shirt",
+  "price": 60,
+  "stock": 8,
+  "thumbnail":"https://cdnb.lystit.com/photos/a43d-2013/12/13/21men-red-classic-fit-gingham-shirt-product-1-16147452-3-439533888-normal.jpeg",
+  "barcode":45674646,
+  "description":"A cool shirt",
+  "id": 2},
+ {
+    "title": "Trainers",
+    "price":80,
+    "stock":5,
+    "thumbnail": "https://cdnb.lystit.com/photos/7aeb-2015/08/04/saint-laurent-gold-high-top-trainers-product-4-706704768-normal.jpeg",
+    "barcode":34564565,
+    "description":"An awesome trainers ",  
+    "id":3
+ },
+ {
+    "title": "Trousers",
+    "price":20,
+    "stock":31,
+    "thumbnail":"https://images.esellerpro.com/3522/I/541/763/965907491_10.jpg", 
+    "barcode": 56456456, 
+    "description":"An all purpouse trainers", 
+    "id":4
+ },
+ {
+    "title":"Coat", 
+    "price":500, 
+    "stock":20, 
+    "thumbnail": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/AC5HB2/4912e458744a48009e60a99c3ae219f2.jpg/f/new-us-navy-style-vintage-wool-winter-pea-coat.jpg",
+    "barcode":64564345, "description":"A coat to look like a gentlemen", 
+    "id":15
+ },
+ {
+    "title":"Scarf",
+    "price":200, 
+    "stock":4, 
+    "thumbnail":"https://yourstylejourney.files.wordpress.com/2014/11/burberry.jpg", 
+    "barcode":56456456, 
+    "description":"An ideal scarf for cold places", 
+    "id":6
+ }
+]
+
+
+
